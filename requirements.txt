@@ -3,4 +3,5 @@ pandas
 pdfplumber
 Pillow
 azure-ai-formrecognizer
+azure-core
 
