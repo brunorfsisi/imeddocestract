@@ -28,9 +28,7 @@ MarkupSafe==2.1.5
 matplotlib==3.5.0
 mdurl==0.1.2
 msrest==0.7.1
-numpy
 oauthlib==3.2.2
-opencv-python-headless==4.5.4.60
 packaging==24.0
 pandas==2.0.3
 pdfminer.six==20231228
