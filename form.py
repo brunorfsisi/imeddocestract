@@ -39,7 +39,7 @@ def process_image(image_bytes):
 
 def main():
     # Adicionando uma imagem na sidebar
-    st.sidebar.image("/home/brunorg/Downloads/Proposta_form_med/LM4.png", use_column_width=True)
+    st.sidebar.image("LM4.png", use_column_width=True)
     
     st.title("Extração e Análise de Dados de Documentos PDF")
     
