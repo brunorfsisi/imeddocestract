@@ -1,0 +1,5 @@
+{
+    "AZURE_ENDPOINT": "https://ailm2.cognitiveservices.azure.com/",
+    "AZURE_KEY": "25c9eb7aa4fd4aa294ddc545cca99ba0",
+    "MODEL_ID":"IMEDFORM"
+}
